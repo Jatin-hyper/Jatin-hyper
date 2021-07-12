@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Jatin Kumar 👋
 
 <!--
 **Jatin-hyper/Jatin-hyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
